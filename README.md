@@ -8,5 +8,5 @@
 
 ### API
 
-Задействовано обращение к API https://fortniteapi.io/
+Задействовано обращение к API (https://fortniteapi.io/)
 
